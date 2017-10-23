@@ -7,10 +7,10 @@ The VR/AR market is a very broad market in terms of both hardware and software a
 My prototype will place the player in a virtual environment, based on my comp230 project, where the player has to navigate a track on said office chair, but instead of having the camera in a 3rd person, the view will be from a first person perspective, with a UI overlayed onto the screen, with information such as how many laps the player has remaining, what position they are in and so on, this UI could be adapted from my exisiting project and repurpoused or be created from scratch but I will discover that further along the line. Having the player control the camera by moving their head will allow for a much more immersive experience and will allow for greater degree of gameplay control, giving the player an edge over perhaps if they weren't using VR. 
 
 # The prototype must fill these key requirements:
-Make good use of either VR/AR technology to provide an immersive experience
-Utilise a clear and logical interface
-Be able to be used by a variety of player
-Be able to be used on a variety of platforms
+* Make good use of either VR/AR technology to provide an immersive experience
+* Utilise a clear and logical interface
+* Be able to be used by a variety of player
+* Be able to be used on a variety of platforms
 
 
 
