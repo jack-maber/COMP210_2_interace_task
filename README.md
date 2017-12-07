@@ -4,6 +4,8 @@ For my interface task I will be basing it on my comp230 collaborative game, whic
 
 The VR/AR market is a very broad market in terms of both hardware and software and has a variety of uses outside of gaming such as CAD design and Architectual planning, meaning that sales numbers of AR/VR devices have made a steady increase since the "VR Boom" a couple of years ago, with devices such as the Samsung Gear VR having sold 5 Million units by January of this year[1], so it's a market with a significant user base that can be tapped into, especially devices such as the Google Cardboard, which can be accessed by nearly anyone with an Android Phone, with nearly 10 Million Cardboard units being sold, and 160 Million downloads of Cardboard supported apps[1], it is clear that VR is defienetly a platform worth taking note of when developing applications. 
 
+There are other VR racing games on the market such as Project Cars[2] and Assetto Corsa[3], which are much more simulation orientated, and are much more indepth when it comes to aspects such as car control and graphical fidelity, but as they are fully developed AAA titles, this to be expected, my game will feature some of these features such as the HMD support and lap time saving
+
 My prototype will place the player in a virtual environment, based on my comp230 project, where the player has to navigate a track on said office chair, but instead of having the camera in a 3rd person, the view will be from a first person perspective, with a UI overlayed onto the screen, with information such as how many laps the player has remaining, what position they are in and so on, this UI could be adapted from my exisiting project and repurpoused or be created from scratch but I will discover that further along the line. Having the player control the camera by moving their head will allow for a much more immersive experience and will allow for greater degree of gameplay control, giving the player an edge over perhaps if they weren't using VR. 
 
 # The prototype must fill these key requirements:
@@ -34,3 +36,5 @@ My prototype will place the player in a virtual environment, based on my comp230
 
 
 [1] https://haptic.al/latest-virtual-reality-headset-sales-so-far-9553e42f60b5
+[2] https://www.projectcarsgame.com/vr.html
+[3] https://www.roadtovr.com/top-5-racing-sims-with-oculus-rift-support-virtual-reality/
