@@ -14,7 +14,7 @@ My prototype will place the player in a virtual environment, based on my comp230
 * Be able to be used by a variety of player
 * Be able to be used on a variety of platforms
 
-
+Trello Link: https://trello.com/b/bab6jq9r/naschair-vr
 
 
 
